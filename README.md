@@ -6,10 +6,10 @@ This script shows the pyhon code (jupyter notebook) used for the ML prediction m
 Please execute the script in the same folder as h5 and joblib files.
 
 ## model1_NN_vel_pred_20240228.h5
-This file contains the trained Neural network particle velocity prediction model and its parameters.
+This file contains the trained Neural network particle velocity prediction model.
 
 ## model2_NN_vel_pred_20240228.h5
-This file contains the trained Neural network particle count prediction model and its parameters.
+This file contains the trained Neural network particle count prediction model.
 
 ## standard_scaler_vel_DE_240228.joblib
 This file contains a trained StandardScaler object for normalizing the input data for the two prediction models.
